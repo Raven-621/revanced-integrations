@@ -1,6 +1,7 @@
 # 🔩 ReVanced Integrations  
 
 ReVanced Extended Integrations containing classes to be merged by ReVanced Patcher.
+This is for the purpose of facilitating the use of ReX with RVX builder, since now that both RVX and ReX are discontinued.
 
 ## ❓ How to use debugging:
 
